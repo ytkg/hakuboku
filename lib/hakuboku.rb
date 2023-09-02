@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "hakuboku/version"
+require_relative 'hakuboku/version'
 
 module Hakuboku
   class Error < StandardError; end
